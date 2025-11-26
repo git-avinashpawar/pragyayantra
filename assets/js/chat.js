@@ -92,7 +92,7 @@ async function getResponse(message) {
   // Make sure to include these imports:
   // import { GoogleGenerativeAI } from "@google/generative-ai";
   const genAI = new GoogleGenerativeAI(AI_ABCD);
-  const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
   const chat = model.startChat({
     history: history,
