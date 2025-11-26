@@ -8,12 +8,12 @@ PragyaYantra is a suite of **generative AI mini-apps** powered by **Google Gemin
 
 | Module          | Description                                        | Model Used        |
 |-----------------|----------------------------------------------------|-------------------|
-| **YantraWrite** | Generate creative or structured text from prompts  | gemini-1.5-pro    |
-| **YantraChat**  | Engage in conversational AI chat                   | gemini-1.5-flash  |
-| **YantraAttach**| Analyze and interact with file attachments         | gemini-1.5-flash  |
-| **YantraDoc**   | Summarize and extract insights from documents      | gemini-1.5-flash  |
-| **YantraQuery** | Auto-generate and refine SQL queries               | gemini-1.5-flash  |
-| **YantraCode**  | Write and assist with Python code                  | gemini-1.5-flash  |
+| **YantraWrite** | Generate creative or structured text from prompts  | gemini-2.5-pro    |
+| **YantraChat**  | Engage in conversational AI chat                   | gemini-2.5-flash  |
+| **YantraAttach**| Analyze and interact with file attachments         | gemini-2.5-flash  |
+| **YantraDoc**   | Summarize and extract insights from documents      | gemini-2.5-flash  |
+| **YantraQuery** | Auto-generate and refine SQL queries               | gemini-2.5-flash  |
+| **YantraCode**  | Write and assist with Python code                  | gemini-2.5-flash  |
 
 ---
 
