@@ -188,7 +188,7 @@ async function getResponse(message) {
   // import { GoogleGenerativeAI } from "@google/generative-ai";
   const genAI = new GoogleGenerativeAI(AI_ABCD);
   const fileManager = new GoogleAIFileManager(AI_ABCD);
-  const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+  const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
   var imageParts = [];
   let result = null;
